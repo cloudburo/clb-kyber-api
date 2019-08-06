@@ -24,3 +24,6 @@ hs_err_pid*
 
 # Ignore Gradle GUI config
 
+/secret/
+/.gradle/
+/build/
